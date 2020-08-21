@@ -4,8 +4,8 @@ a simple pattern for managing configs and paths within a project
 ## use
 1. install project
 2. copy the config folder from `project/config` to your own project or...
-2a. make a folder in your project called config
-2b. make a file in `config/__init__.py`
+  a. make a folder in your project called config
+  b. make a file in `config/__init__.py`
 
 paste the following code:
 ```
