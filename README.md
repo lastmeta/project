@@ -6,8 +6,7 @@ a simple pattern for managing configs and paths within a project
 2. copy the config folder from `project/config` to your own project or...
 - i. make a folder in your project called config
 - ii. make a file in `config/__init__.py`
-
-paste the following code:
+- iii. paste the following code:
 ```
 import os
 from functools import partial
